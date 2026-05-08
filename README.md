@@ -37,7 +37,7 @@
 
 ---
 
-## 📌 Areas of Interest
+## Areas of Interest
 
 - Artificial Intelligence
 - Machine Learning
@@ -48,7 +48,7 @@
 
 ---
 
-## 📈 Currently Working On
+## Currently Working On
 
 - Building real-world Data Science projects
 - Improving Machine Learning and Deep Learning skills
@@ -56,4 +56,4 @@
 - Learning advanced AI technologies
 
 
-⭐ *"Turning data into insights and ideas into intelligent solutions."*
+ *"Turning data into insights and ideas into intelligent solutions."*
